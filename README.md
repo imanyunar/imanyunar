@@ -79,10 +79,17 @@ Focus: Machine Learning | Deep Learning | AI Engineer | Data Engineer | Data Sci
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="mailto:imanyunar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/imanyunar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/imanyunar"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:imanyunar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://bit.ly/ImanYunarLinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/imanyunar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
@@ -93,5 +100,5 @@ Focus: Machine Learning | Deep Learning | AI Engineer | Data Engineer | Data Sci
 ---
 
 <p align="center">
-  ✨ Crafted with ❤️ by <b>Iman Yunar Noviadhi</b> — AI Engineer | Data Scientist | ML Enthusiast ✨
+  ✨ Crafted by <b>Iman Yunar Noviadhi</b> — AI Engineer | Data Scientist | ML Enthusiast ✨
 </p>
