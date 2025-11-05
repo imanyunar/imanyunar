@@ -71,8 +71,9 @@ Focus: Machine Learning | Deep Learning | AI Engineer | Data Engineer | Data Sci
 ---
 
 ### ✨ Quote  
-> “AI is not about replacing humans — it’s about amplifying what humans can achieve.”  
-> — *Iman Yunar Noviadhi*  
+> “Mine has been a life of much shame. I can't even guess myself what it must be to live the life of a human being.”  
+> — *Osamu Dazai, No Longer Human*
+
 
 ---
 
