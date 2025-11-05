@@ -62,11 +62,21 @@ Focus: Machine Learning | Deep Learning | AI Engineer | Data Engineer | Data Sci
 
 ---
 
-### 🌈 Featured Projects  
-- 🩺 **Skin Cancer Detection System** — YOLOv11 + EfficientNet for early skin disease classification  
-- 🤖 **AI Chatbot (NLP)** — Transformer-based model for contextual conversation understanding  
-- 📈 **Predictive Maintenance System** — LSTM-based forecasting on sensor data  
-- ⚡ **Data Pipeline Automation** — Airflow + Pandas for large-scale ETL  
+## 💼 Featured Projects
+
+### 🧠 Crypto Price Prediction using GRU  
+📈 Developed a deep learning model to predict cryptocurrency price movements using **Gated Recurrent Units (GRU)**.  
+🔹 Focused on time-series forecasting with data preprocessing (normalization, sliding window, sequence generation).  
+🔹 Built with **TensorFlow**, **Pandas**, and **Matplotlib** for data handling and visualization.  
+
+---
+
+### 🩺 Skin Cancer Detection using CNN (ResNet50)  
+🧬 Built an image classification system for detecting skin cancer using **Convolutional Neural Networks** with **ResNet50 architecture**.  
+🔹 Implemented preprocessing (resizing, normalization) for image enhancement.  
+🔹 Trained with **TensorFlow/Keras** achieving high accuracy in multi-class classification.  
+🔹 Deployed as a web-based system for real-time detection.
+
 
 ---
 
